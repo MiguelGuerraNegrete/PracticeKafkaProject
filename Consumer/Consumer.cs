@@ -1,11 +1,7 @@
 ﻿using Confluent.Kafka;
-using System;
-using System.Threading;
-using Microsoft.Extensions.Configuration;
 
 class Consumer
 {
-
     public static void Main(string[] args)
     {
         if (args.Length != 1)

@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Producer"
+    "\\Consumer"
   ],
-  "SelectedNode": "\\Producer\\Producer.cs",
+  "SelectedNode": "\\Consumer\\Consumer.csproj",
   "PreviewInSolutionExplorer": false
 }
